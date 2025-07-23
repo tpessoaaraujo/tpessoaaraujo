@@ -1,8 +1,8 @@
 ## Olá, mundo! Meu nome é <strong>Thiago</strong>! 👋
 
 <ul>
-  <li>🎓 Tecnólogo em Sistemas para Internet - Concluído em Janeiro/2025</li>
-  <li>🎓 Bacharelado em Engenharia de Software - Cursando com Previsão de Conclusão em Janeiro/2026</li>
+  <li>🎓 Tecnólogo em Sistemas para Internet - Concluído em Dezembro/2024</li>
+  <li>🎓 Bacharelado em Engenharia de Software - Cursando com Previsão de Conclusão em Dezembro/2025</li>
 </ul>
 
 ##
