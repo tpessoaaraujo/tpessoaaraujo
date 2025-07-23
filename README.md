@@ -1,8 +1,5 @@
 ## Olá, mundo! Meu nome é <strong>Thiago</strong>! 👋
 
-<p align="left">
-<b>SRE | Desenvolvimento Web | Análise de Dados | SQL</b>
-
 <ul>
   <li>🎓 Tecnólogo em Sistemas para Internet - Concluído em Janeiro/2025</li>
   <li>🎓 Bacharelado em Engenharia de Software - Cursando com Previsão de Conclusão em Janeiro/2026</li>
