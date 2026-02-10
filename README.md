@@ -24,6 +24,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/php-20232A?style=for-the-badge&logo=php">
   <img src="https://custom-icon-badges.demolab.com/badge/opencv-20232A?style=for-the-badge&logo=opencv">
   <img src="https://custom-icon-badges.demolab.com/badge/jupyter-20232A?style=for-the-badge&logo=jupyter">
+  
   <img src="https://custom-icon-badges.demolab.com/badge/html5-20232A?style=for-the-badge&logo=html5">
   <img src="https://custom-icon-badges.demolab.com/badge/CSS3-20232A?style=for-the-badge&logo=css">
   <img src="https://custom-icon-badges.demolab.com/badge/javascript-20232A?style=for-the-badge&logo=javascript">
