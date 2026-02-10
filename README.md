@@ -1,4 +1,4 @@
-## Olá Mundo! 👋
+## Olá Mundo! 🖖
 
 <ul>
   <li>🎓 Tecnólogo em Sistemas para Internet - Concluído em Dezembro de 2024</li>
