@@ -19,17 +19,16 @@
 </h2>
 
 <div>
+  <img src="https://custom-icon-badges.demolab.com/badge/python-20232A?style=for-the-badge&logo=python">
+  <img src="https://custom-icon-badges.demolab.com/badge/java-20232A?style=for-the-badge&logo=java">
+  <img src="https://custom-icon-badges.demolab.com/badge/php-20232A?style=for-the-badge&logo=php">
   <img src="https://custom-icon-badges.demolab.com/badge/opencv-20232A?style=for-the-badge&logo=opencv">
   <img src="https://custom-icon-badges.demolab.com/badge/jupyter-20232A?style=for-the-badge&logo=jupyter">
-  <img src="https://custom-icon-badges.demolab.com/badge/python-20232A?style=for-the-badge&logo=python">
   <img src="https://custom-icon-badges.demolab.com/badge/html5-20232A?style=for-the-badge&logo=html5">
   <img src="https://custom-icon-badges.demolab.com/badge/CSS3-20232A?style=for-the-badge&logo=css">
   <img src="https://custom-icon-badges.demolab.com/badge/javascript-20232A?style=for-the-badge&logo=javascript">
   <img src="https://custom-icon-badges.demolab.com/badge/react-20232A?style=for-the-badge&logo=react">
-  <img src="https://custom-icon-badges.demolab.com/badge/php-20232A?style=for-the-badge&logo=php">
-  <img src="https://custom-icon-badges.demolab.com/badge/java-20232A?style=for-the-badge&logo=java">
   <img src="https://custom-icon-badges.demolab.com/badge/git-20232A?style=for-the-badge&logo=git">
-  <img src="https://custom-icon-badges.demolab.com/badge/github-20232A?style=for-the-badge&logo=github">
 </div>
 
 <h2 align="left">
