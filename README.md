@@ -3,7 +3,8 @@
 <ul>
   <li>🎓 Tecnólogo em Sistemas para Internet (Unifatecie - 12/2024)</li>
   <li>🎓 Bacharel em Engenharia de Software (Unicesumar - 12/2025)</li>
-  <li>🎓 Cursando Pós-Graduação em Robótica e Inteligência Artificial (Previsão de Conclusão 07/2026)
+  <li>🎓 Cursando Pós-Graduação em Robótica e Inteligência Artificial (Previsão de Conclusão 08/2026)
+    <li>🎓 Cursando Pós-Graduação em Modelagem Matemática e Computação Aplicada (Previsão de Conclusão 09/2026)
 </ul>
 <br>
 <h2 align="left">
@@ -12,14 +13,12 @@
 <div>
   <img src="https://custom-icon-badges.demolab.com/badge/python-20232A?style=for-the-badge&logo=python">
   <img src="https://custom-icon-badges.demolab.com/badge/java-20232A?style=for-the-badge&logo=java">
-  <img src="https://custom-icon-badges.demolab.com/badge/php-20232A?style=for-the-badge&logo=php">
   <img src="https://custom-icon-badges.demolab.com/badge/opencv-20232A?style=for-the-badge&logo=opencv">
   <img src="https://custom-icon-badges.demolab.com/badge/jupyter-20232A?style=for-the-badge&logo=jupyter">
   <br>
   <img src="https://custom-icon-badges.demolab.com/badge/html5-20232A?style=for-the-badge&logo=html5">
   <img src="https://custom-icon-badges.demolab.com/badge/CSS3-20232A?style=for-the-badge&logo=css">
   <img src="https://custom-icon-badges.demolab.com/badge/javascript-20232A?style=for-the-badge&logo=javascript">
-  <img src="https://custom-icon-badges.demolab.com/badge/react-20232A?style=for-the-badge&logo=react">
   <img src="https://custom-icon-badges.demolab.com/badge/git-20232A?style=for-the-badge&logo=git">
 </div>
 <br>
